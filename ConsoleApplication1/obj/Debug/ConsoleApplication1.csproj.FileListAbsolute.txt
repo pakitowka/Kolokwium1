@@ -1,0 +1,5 @@
+E:\projects\C#\p3\Kolokwium1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\projects\C#\p3\Kolokwium1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\projects\C#\p3\Kolokwium1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojAssemblyReference.cache
+E:\projects\C#\p3\Kolokwium1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\projects\C#\p3\Kolokwium1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
